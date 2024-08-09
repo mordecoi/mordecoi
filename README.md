@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">HOLA 👋, soy Mordecoi</a></h1>
+<h3 align="center">Un apasionado desarrollador de interfaces, siempre buscando nuevos desafios. &#127470;&#127475</h3>
 
-<!--
-**mordecoi/mordecoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mordecoi" alt="mordecoi" /> </p>
 
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabajo en <a href="https://www.nokia.com/es_int/" target="blank"> NOKIA </a>
+
+- 🌱 Con experiencia en los lenguajes de programacion C++, Python.
+
+- 🤝 Utilice las herramientas Django, Flask, React, SQL y MongoDB.
+
+-  📡 Con experiencia en arquitectura VoLTE y Vo5G.
+
+- 🌱 Estoy aprendiendo aleman  <a href="https://es.duolingo.com/" target="blank"> Duolingo </a>
+
+**Creditos para el template del perfil**
+
+Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
