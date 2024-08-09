@@ -11,6 +11,8 @@
 
 - 🌱 Con experiencia en los lenguajes de programacion C++, Python.
 
+- 👨‍🔬 Con conocimientos de QA Testing.
+
 - 🤝 Utilice las herramientas Django, Flask, React, SQL y MongoDB.
 
 -  📡 Con experiencia en arquitectura VoLTE y Vo5G.
