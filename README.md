@@ -1,5 +1,5 @@
 <h1 align="center">HOLA 👋, soy Mordecoi</h1>
-<h3 align="center">Un apasionado desarrollador de aplicaciones, siempre buscando nuevos desafíos. 🇦🇷</h3>
+<h3 align="center">Un apasionado desarrollador de aplicaciones, siempre buscando nuevos desafíos. 🧉🇦🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mordecoi" alt="mordecoi" /> </p>
 
