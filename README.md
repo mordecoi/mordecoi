@@ -19,4 +19,4 @@
 
 **Creditos para el template del perfil**
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+[Saurabh Chavan](https://github.com/100rabhcsmc)
