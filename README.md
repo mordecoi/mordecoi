@@ -15,7 +15,7 @@
 
 -  📡 Con experiencia en arquitectura VoLTE y Vo5G.
 
-- 🌱 Estoy aprendiendo aleman  <a href="https://es.duolingo.com/" target="blank"> Duolingo </a>
+- 🌱 Estoy aprendiendo aleman en <a href="https://es.duolingo.com/" target="blank"> Duolingo </a>
 
 **Creditos para el template del perfil**
 
